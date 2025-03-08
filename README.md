@@ -39,15 +39,16 @@ This project involves **cleaning, exploring, and analyzing** a dataset of movies
 ## 🚀 How to Run the Project
 1️⃣ **Clone this repository**:
 
-    git clone <repo_link>
-
+    git clone https://github.com/Mohab-DataAnalyst/movie-data-analysis.git
+    cd movie-data-analysis
+    
 2️⃣ **Install dependencies**:
 
-    pip install requests pandas seaborn matplotlib
+    pip install pandas numpy seaborn matplotlib
 
 3️⃣ **Run the script**:
 
-    python script.py
+    python "Movie Data Cleaning, EDA & Correlation Analysis Project.py"
 
 ## 📎 Acknowledgements
 - This project was inspired by [@Alex The Analyst.](https://youtu.be/iPYVYBtUTyE?si=eM_Dx-OpTNL6eLUC)
